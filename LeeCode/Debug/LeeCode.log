@@ -1,2 +1,6 @@
 ﻿  LeeCode.cpp
+f:\vs2017workplace\leecode\leecode\leecode.cpp(582): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+f:\vs2017workplace\leecode\leecode\leecode.cpp(612): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\vs2017workplace\leecode\leecode\leecode.cpp(615): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+f:\vs2017workplace\leecode\leecode\leecode.cpp(623): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
   LeeCode.vcxproj -> F:\vs2017workplace\LeeCode\Debug\LeeCode.exe
